@@ -3,7 +3,7 @@ Welcome to my portfolio!
 Looking to transition from a senior cabin crew role into technology, currently focusing on IT Support as a foundation for a cybersecurity career in the long run.
 
 ## 🔧 Projects
-- [Active Directory Home Lab](./ActiveDirectoryLab)
+- [Active Directory Home Lab]((https://github.com/SzGregG/ActiveDirectoryLab)
 - [Network Troubleshooting Lab](./Networking-Troubleshooting)
 - [Ticketing System Simulation](./Ticketing-System-Simulation)
 - [Windows Troubleshooting Practice](./Windows-Troubleshooting)
