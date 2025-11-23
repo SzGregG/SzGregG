@@ -4,16 +4,12 @@ Looking to transition from a senior cabin crew role into technology, currently f
 
 ## 🔧 Projects
 - [Active Directory Home Lab](https://github.com/SzGregG/ActiveDirectoryLab)
-- [Network Troubleshooting Lab](./Networking-Troubleshooting)
-- [Ticketing System Simulation](./Ticketing-System-Simulation)
-- [Windows Troubleshooting Practice](./Windows-Troubleshooting)
-- [PowerShell Automation Task](./PowerShell-Automation)
 
 ## 🎓 Certifications
 CompTIA Security+ | Google Cybersecurity | ISC2 CC | Cisco Networking Basics  
 
 ## 🧠 Skills
-Windows & macOS Support · Active Directory · Microsoft 365 Admin · Basic Networking · SIEM · Troubleshooting · Customer Communication
+Windows Support · Active Directory · Microsoft 365 Admin · Basic Networking · SIEM · Troubleshooting · Customer Communication
 
 ## 🔗 Contact
 [Linkedin](https://www.linkedin.com/in/gergely-szekeres/)
