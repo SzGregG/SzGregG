@@ -13,3 +13,7 @@ Windows Support · Active Directory · Microsoft 365 Admin · Basic Networking �
 
 ## 🔗 Contact
 [Linkedin](https://www.linkedin.com/in/gergely-szekeres/)
+  
+## 📝 Notes 
+- [Frameworks]()
+- [Tryhackme]()
