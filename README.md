@@ -15,5 +15,5 @@ Windows Support · Active Directory · Microsoft 365 Admin · Basic Networking �
 [Linkedin](https://www.linkedin.com/in/gergely-szekeres/)
   
 ## 📝 Notes 
-- [Frameworks]()
+- [Frameworks](https://github.com/SzGregG/Cyber-Frameworks/blob/main/README.md)
 - [Tryhackme]()
