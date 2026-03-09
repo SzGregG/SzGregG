@@ -16,4 +16,3 @@ Windows Support · Active Directory · Microsoft 365 Admin · Basic Networking �
   
 ## 📝 Notes 
 - [Frameworks](https://github.com/SzGregG/Cyber-Frameworks/blob/main/README.md)
-- [Tryhackme](https://github.com/SzGregG/Tryhackme)
