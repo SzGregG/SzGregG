@@ -1,12 +1,12 @@
 ## Hi, I'm Greg 👋
 Welcome to my portfolio!  
-I am MSc Management of Information Systems Gradute. Looking to transition from a senior cabin crew role into technology, and a cybersecurity career in the long run. Here I record all the learning and projects I have done recently. As of starting this portolio I am already in the top 2% of learners on Tryhackme, and currently looking to do the SAL1 certificate by them. 
+I am MSc Management of Information Systems Gradute. Looking to transition from a senior cabin crew role into technology, and a cybersecurity career in the long run. Here I record all the learning and projects I have done recently. As of starting this portolio I am already in the top 1% of learners on Tryhackme.
 
 ## 🔧 Projects
 - [Active Directory Home Lab](https://github.com/SzGregG/ActiveDirectoryLab)
 
 ## 🎓 Certifications
-CompTIA Security+ | Google Cybersecurity | ISC2 CC | Cisco Networking Basics  
+Tryhackme SAL1 | CompTIA Security+ | Google Cybersecurity | ISC2 CC | Cisco Networking Basics  
 
 ## 🧠 Skills
 Windows Support · Active Directory · Microsoft 365 Admin · Basic Networking · SIEM · Troubleshooting · Customer Communication
