@@ -1,6 +1,6 @@
 ## Hi, I'm Greg 👋
 Welcome to my portfolio!  
-I am MSc Management of Information Systems Gradute. Looking to transition from a senior cabin crew role into technology, and a cybersecurity career in the long run. Here I record all the learning and projects I have done recently. As of starting this portolio I am already in the top 1% of learners on Tryhackme.
+I am MSc Management of Information Systems Gradute. Looking to transition from a senior cabin crew role into a cybersecurity career. Here I record all the learning and projects I have done. As of starting this portolio I am already in the top 1% of learners on Tryhackme.
 
 ## 🔧 Projects
 - [Active Directory Home Lab](https://github.com/SzGregG/ActiveDirectoryLab)
