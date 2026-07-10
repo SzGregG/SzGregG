@@ -4,6 +4,7 @@ I am MSc Management of Information Systems Gradute. Looking to transition from a
 
 ## 🔧 Labs & Projects
 - [Vulnerability Management Implementation Lab](https://github.com/SzGregG/Vulnerability-Management-Program-Implementation)
+- [Authenticated and Unauthenticated Scans w/ Tenable](https://github.com/SzGregG/Performing-Unauthenticated-and-Authenticated-scans-with-Tenable)
 - [Threat Hunt- TOR Scenario](https://github.com/SzGregG/Threat-Hunt-Scenario-TOR)
 - [Active Directory Home Lab](https://github.com/SzGregG/ActiveDirectoryLab)
 
