@@ -4,6 +4,7 @@ I am MSc Management of Information Systems Gradute. Looking to transition from a
 
 ## 🔧 Labs & Projects
 - **[Vulnerability Management Implementation Lab](https://github.com/SzGregG/Vulnerability-Management-Program-Implementation)**
+- **[Programmatic DISA STIG Remidiations w/ Powershell](https://github.com/SzGregG/Windows11-STIG-Programmatic-Remidiation-with-Powershell)**
 - **[Authenticated and Unauthenticated Scans w/ Tenable](https://github.com/SzGregG/Performing-Unauthenticated-and-Authenticated-scans-with-Tenable)**
 - **[Active Directory Home Lab](https://github.com/SzGregG/ActiveDirectoryLab)**
 
