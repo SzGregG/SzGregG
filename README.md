@@ -8,7 +8,7 @@ I am MSc Management of Information Systems Gradute. Looking to transition from a
 - [Active Directory Home Lab](https://github.com/SzGregG/ActiveDirectoryLab)
 
 ## 🎯 Threat Hunts
-- [Second-Vector Investigation-Report (Sentinel-MDE-Sentinel)](https://github.com/SzGregG/Second-Vector---Threat-Hunt-Investigation-Report/tree/main)
+- [Second Vector Investigation Report (Sentinel-MDE-Sentinel)](https://github.com/SzGregG/Second-Vector---Threat-Hunt-Investigation-Report/tree/main)
 - [Threat Hunt- TOR Scenario](https://github.com/SzGregG/Threat-Hunt-Scenario-TOR)
 
 ## 🎓 Certifications
